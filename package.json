@@ -1,9 +1,13 @@
 {
-  "name": "glottica-types",
+  "name": "@glotticaorg/types",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/glotticaorg/glottica-types.git",
+    "type": "git"
+  },
   "files": [
     "dist"
   ],
